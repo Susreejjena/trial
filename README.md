@@ -1,4 +1,6 @@
 # trial
-this is my 1st Git Repository.
+This is my 1st Git Repository.
 <br>
-author- susree
+Author- Susree
+<br>
+I am new to git hub and excited to have repositories and projects to boost up my skills and my profile 
